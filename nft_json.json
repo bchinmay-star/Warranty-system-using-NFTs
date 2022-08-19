@@ -1,0 +1,27 @@
+{
+  "name": "product_name",
+  "description": "product_description",  
+  "image": "image_url", 
+  "attributes": [
+    {
+      "trait_type": "Serial_number", 
+      "value": "serial_number"
+    },
+    {
+      "trait_type": "Warranty_period", 
+      "value": "x_years"
+    },
+    {
+      "trait_type": "Owner", 
+      "value": "owner_wallet_address"
+    },
+    {
+      "trait_type": "Benefits", 
+      "value": "benefits_description"
+    },
+    {
+      "trait_type": "Terms_and_conditions", 
+      "value": "terms_and_conditions_description"
+    }
+  ]
+}
